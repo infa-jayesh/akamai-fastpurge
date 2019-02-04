@@ -3,7 +3,7 @@ case "$1" in
 
 	help)
             echo "Usage: ./fastpurge.sh install/<cp-code>"
-	    echo "eg. ./fastpurge.sh install OR ./fastpurge.sh 809166" 
+	    echo "eg. ./fastpurge.sh install OR ./fastpurge.sh 844466" 
             ;;
 
 	install)
